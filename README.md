@@ -1,4 +1,4 @@
-# Tyriek-cloud
+# Tyriek Warren: Professional Data Nerd
 ![image](https://github.com/Tyriek-cloud/Tyriek-cloud/assets/62261407/41a38e70-62f4-4871-ae87-4638e87a037d)
 
 Link to my portfolio: https://www.datascienceportfol.io/TyriekWarren
