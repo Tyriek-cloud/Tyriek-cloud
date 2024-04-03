@@ -1,6 +1,5 @@
 # Tyriek-cloud
-
-![image](https://github.com/Tyriek-cloud/Tyriek-cloud/assets/62261407/df288aa6-8c96-4e70-bffe-3fc2cb5b1754)
+![image](https://github.com/Tyriek-cloud/Tyriek-cloud/assets/62261407/41a38e70-62f4-4871-ae87-4638e87a037d)
 
 Link to my portfolio: https://www.datascienceportfol.io/TyriekWarren
 
