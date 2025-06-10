@@ -12,9 +12,3 @@ Some of the tasks that I take the most pride in include the following:
 - Conducting data-heavy research for lengthy reports
 - Analyzing technical documentation and then teaching others how to use the technology I read about
 - Training staff in data analysis, data quality, and data management techniques
-- Incorporating Bayesian statistics into my workflow
-
-Fun Fact about me:
-- I am a certified Crime Analyst:
-
-![image](https://github.com/user-attachments/assets/4eacdc2d-2308-4c3d-971e-3e85bd930b9e)
